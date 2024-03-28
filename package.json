@@ -1,0 +1,15 @@
+{
+	"name": "adb-backup-extractor",
+	"version": "1.0.0",
+	"description": "A Node.js based tool to extract and decrypt Android backups created by adb backup",
+	"main": "main.js",
+	"scripts": {
+		"build": "pkg -t node18 extract.js --output adb_extract.exe"
+	},
+	"author": "Tristan Gauci (ParadoxEpoch)",
+	"license": "MIT",
+	"bin": "./",
+	"devDependencies": {
+		"pkg": "^5.8.1"
+	}
+}
