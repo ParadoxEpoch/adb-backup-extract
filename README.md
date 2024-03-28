@@ -22,7 +22,7 @@ Don't know if your backup is encrypted? No stress, if you run the tool without a
 
 ## Building
 
-Download and extract the latest [source code](https://github.com/ParadoxEpoch/adb-backup-extract/archive/refs/heads/main.zip) or use `git clone https://github.com/ParadoxEpoch` to clone the repository to your machine.
+Download and extract the latest [source code](https://github.com/ParadoxEpoch/adb-backup-extract/archive/refs/heads/main.zip) or use `git clone https://github.com/ParadoxEpoch/adb-backup-extract` to clone the repository to your machine.
 
 Run `npm install` to install the build dependencies.
 
